@@ -1,1 +1,6 @@
-Here for modification
+*get clone
+*git push or git push origin main 
+*git add .
+*git commit -m <message>
+*git status
+*git log
